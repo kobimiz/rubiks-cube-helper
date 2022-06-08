@@ -1,6 +1,3 @@
-*.pdf
-*.png
-*.docx
-*.txt
-*.pptx
-src/node_modules
+node_modules
+out
+misc

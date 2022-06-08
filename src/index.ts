@@ -1,5 +1,5 @@
-const { app, BrowserWindow, globalShortcut } = require('electron')
-const path = require('path')
+import { app, BrowserWindow, globalShortcut } from 'electron'
+import * as path from 'path'
 
 const createWindow = () => {
     const win = new BrowserWindow({
