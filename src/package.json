@@ -1,0 +1,14 @@
+{
+  "name": "rubiks-cube-helper",
+  "version": "1.0.0",
+  "description": "helps learning to solve a rubik's cube",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kobi Mizrahi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.3"
+  }
+}
